@@ -18,3 +18,7 @@
 - Press 'T' to choose 'Yes' answer
 - Press 'T' to choose 'No' answer
 - Press 'Enter' to go to the next question
+- Choosing A, B, C answers
+    - Press 'A', '1' or '8' to choose option A
+    - Press 'B', '2' or '9' to choose option B
+    - Press 'C', '3' or '0' to choose option C
